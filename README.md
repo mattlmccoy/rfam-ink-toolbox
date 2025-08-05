@@ -32,7 +32,6 @@ rfam-ink-toolbox/
 ├── gui.py # Interactive ROI selection interface
 ├── main.py # Orchestrates session flow
 ├── plots.py # Heatmaps and contour visualizations
-├── utils.py # Helper functions
 ├── README.md # Project documentation
 ```
 
